@@ -1,0 +1,10 @@
+{
+    "url": "https://localhost/api",
+    "sync_type": "ALL",
+    "since": "",
+    "since_last": "",
+    "bulk": {
+      "enabled": true,
+      "size": 1000
+    }
+}

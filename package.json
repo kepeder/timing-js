@@ -1,0 +1,15 @@
+{
+  "name": "timely-integrator",
+  "version": "0.0.1",
+  "description": "Integrates Timely DB to be used in an integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth Pedersen",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^5.0.1",
+    "fs": "0.0.1-security"
+  }
+}
